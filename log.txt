@@ -1,0 +1,3686 @@
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:22:48 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+Song Title: 
+Artist(s): 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Artist(s): 
+Song Title: 
+    Impatient
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+    Late Nights: The Album
+Artist(s): 
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Album Name: 
+    Suicide Squad: The Album
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Preview URL: 
+Album Name: 
+Artist(s): 
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:28:14 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+    [object Object]
+************ Begin Track0*******************
+Artist(s): 
+    [object Object]
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+    [object Object]
+Song Title: 
+    [object Object]
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Preview URL: 
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track0*******************
+************ Begin Track1*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Song Title: 
+    Impatient
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+    Late Nights: The Album
+************* End Track1*******************
+************ Begin Track2*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    [object Object]
+Preview URL: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track2*******************
+************ Begin Track3*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Preview URL: 
+    The Divine Feminine
+Album Name: 
+************* End Track3*******************
+************ Begin Track4*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+    The Sign (US Album) [Remastered]
+************* End Track4*******************
+************ Begin Track5*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview URL: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+Album Name: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track5*******************
+************ Begin Track6*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Blessings
+Preview URL: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Album Name: 
+    Coloring Book
+************* End Track6*******************
+************ Begin Track7*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+************ Begin Track8*******************
+    [object Object]
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track8*******************
+************ Begin Track9*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track9*******************
+************ Begin Track10*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track10*******************
+************ Begin Track11*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track11*******************
+************ Begin Track12*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track12*******************
+************ Begin Track13*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track13*******************
+************ Begin Track14*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track14*******************
+************ Begin Track15*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+************ Begin Track16*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track16*******************
+************ Begin Track17*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+************ Begin Track18*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+************ Begin Track19*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:28:59 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+************ Begin Track0*******************
+    [object Object]
+    [object Object]
+Song Title: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Album Name: 
+************* End Track0*******************
+
+
+************ Begin Track1*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Artist(s): 
+    [object Object]
+Song Title: 
+    [object Object]
+    Impatient
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+Preview URL: 
+************* End Track1*******************
+
+
+    Late Nights: The Album
+Artist(s): 
+************ Begin Track2*******************
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+    [object Object]
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track2*******************
+
+
+************ Begin Track3*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Album Name: 
+    The Divine Feminine
+************* End Track3*******************
+
+
+************ Begin Track4*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+    The Sign (US Album) [Remastered]
+************* End Track4*******************
+
+
+************ Begin Track5*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview URL: 
+    [object Object]
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+Album Name: 
+************ Begin Track6*******************
+************* End Track5*******************
+
+
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Blessings
+Preview URL: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Album Name: 
+    [object Object]
+************* End Track6*******************
+
+
+    Coloring Book
+    [object Object]
+Artist(s): 
+Song Title: 
+************ Begin Track7*******************
+    [object Object]
+    Hanging Up My Jersey
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+
+
+************ Begin Track8*******************
+Preview URL: 
+    [object Object]
+    [object Object]
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track8*******************
+
+
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+************ Begin Track9*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+Preview URL: 
+************ Begin Track10*******************
+************* End Track9*******************
+
+
+    [object Object]
+Artist(s): 
+Song Title: 
+    Warning Sign
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+    A Rush Of Blood To The Head
+************* End Track10*******************
+
+
+************ Begin Track11*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+    [object Object]
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track11*******************
+
+
+Artist(s): 
+************ Begin Track12*******************
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track12*******************
+
+
+************ Begin Track13*******************
+Artist(s): 
+    [object Object]
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+Song Title: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track13*******************
+
+
+Artist(s): 
+************ Begin Track14*******************
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+************* End Track14*******************
+
+
+    Peace Is The Mission (Extended)
+************ Begin Track15*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+
+
+************ Begin Track16*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track16*******************
+
+
+************ Begin Track17*******************
+Artist(s): 
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+    [object Object]
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+
+
+************ Begin Track18*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+
+
+************ Begin Track19*******************
+Artist(s): 
+    [object Object]
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:29:46 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+************ Begin Track0*******************
+Artist(s): 
+    Wiz Khalifa
+    Ty Dolla $ign
+    DJ Mustard
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track0*******************
+
+
+    The Weeknd
+Artist(s): 
+    Jeremih
+    Ty Dolla $ign
+Song Title: 
+    Impatient
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+************ Begin Track1*******************
+Album Name: 
+************* End Track1*******************
+
+
+    Late Nights: The Album
+************ Begin Track2*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    X Ambassadors
+    Logic
+    Ty Dolla $ign
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track2*******************
+
+
+************ Begin Track3*******************
+Artist(s): 
+    Mac Miller
+    Ty Dolla $ign
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Album Name: 
+    The Divine Feminine
+************* End Track3*******************
+
+
+************ Begin Track4*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+    The Sign (US Album) [Remastered]
+************* End Track4*******************
+
+
+************ Begin Track5*******************
+Artist(s): 
+    Juicy J
+    Wiz Khalifa
+    Ty Dolla $ign
+    Madsonik
+    Kill The Noise
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview URL: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+Album Name: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track5*******************
+
+
+************ Begin Track6*******************
+Artist(s): 
+    Chance The Rapper
+    Ty Dolla $ign
+    Anderson .Paak
+    BJ The Chicago Kid
+    Raury
+Song Title: 
+    Blessings
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Preview URL: 
+************* End Track6*******************
+
+
+Artist(s): 
+************ Begin Track7*******************
+    PnB Rock
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    Coloring Book
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+
+
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track8*******************
+
+
+************ Begin Track9*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track9*******************
+
+
+************ Begin Track10*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track10*******************
+
+
+************ Begin Track11*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+    Louis The Child
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track11*******************
+
+
+************ Begin Track12*******************
+Artist(s): 
+    Chris Brown
+    Tyga
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+************ Begin Track8*******************
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track12*******************
+
+
+************ Begin Track13*******************
+Artist(s): 
+    Ty Dolla $ign
+Preview URL: 
+Album Name: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track13*******************
+
+
+Song Title: 
+Artist(s): 
+    Major Lazer
+************ Begin Track14*******************
+    Ty Dolla $ign
+    WizKid
+    Kranium
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track14*******************
+
+
+************ Begin Track15*******************
+    Saved - Live from The Village, Los Angeles
+Artist(s): 
+    Moti
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+
+
+************ Begin Track16*******************
+Artist(s): 
+    Albert King
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    Ace of Base
+    King Of The Blues Guitar
+************* End Track16*******************
+
+
+************ Begin Track17*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+
+
+************ Begin Track18*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+
+
+************ Begin Track19*******************
+Artist(s): 
+    Less Than Jake
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:42:33 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:42:50 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 13th 2017, 01:47:59 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:00:55 pm
+********************************************
+
+In do-what-it-says
+Command = do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:00:55 pm
+********************************************
+
+Command = 
+There was an error.  Unrecognized input.
+********************************************
+Entering Liri.js
+Command = do-what-it-says
+Feb 13th 2017, 04:02:24 pm
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:02:24 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:05:15 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Feb 13th 2017, 04:05:15 pm
+Command = 
+********************************************
+
+Entering Liri.js
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:43:23 pm
+In do-what-it-says
+Command = do-what-it-says
+********************************************
+
+********************************************
+Entering Liri.js
+
+Feb 13th 2017, 04:43:23 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:44:16 pm
+In do-what-it-says
+Command = do-what-it-says
+********************************************
+
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:44:36 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:48:50 pm
+********************************************
+
+Command = do-what-it-says
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 04:48:50 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:38:11 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:38:11 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:39:16 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:39:16 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:40:11 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:40:11 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:40:48 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:40:48 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:41:12 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:41:12 pm
+Command = 
+********************************************
+
+There was an error.  Unrecognized input.
+spotify-this-song,"I Want it That Way"
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:44:21 pm
+Command = do-what-it-says
+********************************************
+
+In do-what-it-says
+spotify-this-song,"I Want it That Way"
+********************************************
+spotify-this-song,"I Want it That Way"
+Entering Liri.js
+Feb 13th 2017, 05:44:21 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+Artist(s): 
+************ Begin Track0*******************
+    The Weeknd
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+    Ty Dolla $ign
+    DJ Mustard
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track0*******************
+
+
+************ Begin Track1*******************
+Artist(s): 
+    Jeremih
+    Ty Dolla $ign
+    Impatient
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+    Late Nights: The Album
+************* End Track1*******************
+
+
+************ Begin Track2*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    X Ambassadors
+    Logic
+    Ty Dolla $ign
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track2*******************
+
+
+************ Begin Track3*******************
+Artist(s): 
+    Mac Miller
+    Ty Dolla $ign
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Preview URL: 
+Album Name: 
+    The Divine Feminine
+************* End Track3*******************
+
+
+************ Begin Track4*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+************* End Track4*******************
+
+
+    The Sign (US Album) [Remastered]
+************ Begin Track5*******************
+Artist(s): 
+    Wiz Khalifa
+    Ty Dolla $ign
+    Madsonik
+    Juicy J
+    Kill The Noise
+Preview URL: 
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+Album Name: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track5*******************
+
+
+Artist(s): 
+    Chance The Rapper
+************ Begin Track6*******************
+    BJ The Chicago Kid
+    Raury
+Song Title: 
+    Anderson .Paak
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Preview URL: 
+    Ty Dolla $ign
+    Blessings
+************ Begin Track7*******************
+Artist(s): 
+************* End Track6*******************
+
+
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+    Coloring Book
+Album Name: 
+Album Name: 
+    PnB Rock
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+
+
+************ Begin Track8*******************
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Album Name: 
+************* End Track8*******************
+
+
+************ Begin Track9*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track9*******************
+
+
+************ Begin Track10*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track10*******************
+
+
+************ Begin Track11*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+Song Title: 
+    Louis The Child
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track11*******************
+
+
+************ Begin Track12*******************
+Album Name: 
+    Chris Brown
+    Tyga
+Preview URL: 
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track12*******************
+
+
+Artist(s): 
+************ Begin Track13*******************
+    Ty Dolla $ign
+Song Title: 
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track13*******************
+
+
+************ Begin Track14*******************
+Artist(s): 
+    Major Lazer
+    Moti
+    WizKid
+    Ty Dolla $ign
+    Kranium
+Song Title: 
+Preview URL: 
+    Boom
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track14*******************
+
+
+************ Begin Track15*******************
+Artist(s): 
+Song Title: 
+    Ace of Base
+Preview URL: 
+    The Sign
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+
+
+Artist(s): 
+    Albert King
+Song Title: 
+Preview URL: 
+    Born Under A Bad Sign
+************ Begin Track16*******************
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+    King Of The Blues Guitar
+Album Name: 
+************* End Track16*******************
+
+
+************ Begin Track17*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+
+
+************ Begin Track18*******************
+Artist(s): 
+    Ty Dolla $ign
+    Horses In The Stable
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+
+
+************ Begin Track19*******************
+    Less Than Jake
+Song Title: 
+Artist(s): 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+
+
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:47:49 pm
+Command = undefined
+********************************************
+
+There was an error.  Unrecognized input.
+********************************************
+Entering Liri.js
+Feb 13th 2017, 05:48:30 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Star Wars
+Entering Liri.js
+********************************************
+Feb 13th 2017, 05:49:44 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Star Wars
+********************************************
+Entering Liri.js
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+Feb 13th 2017, 06:21:41 pm
+************ Begin Track0*******************
+[object Object]
+Song Title: 
+    The Weeknd
+Preview URL: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+    DJ Mustard
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Artist(s): 
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track0*******************
+
+
+************ Begin Track1*******************
+Artist(s): 
+    Ty Dolla $ign
+    Jeremih
+    Impatient
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+    Late Nights: The Album
+Album Name: 
+************ Begin Track2*******************
+************* End Track1*******************
+
+
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    X Ambassadors
+    Logic
+Song Title: 
+    Ty Dolla $ign
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+    Ty Dolla $ign
+    Suicide Squad: The Album
+************* End Track2*******************
+
+
+Artist(s): 
+    Mac Miller
+Song Title: 
+    Ty Dolla $ign
+    Cinderella (feat. Ty Dolla $ign)
+************ Begin Track3*******************
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Album Name: 
+************* End Track3*******************
+
+
+    The Divine Feminine
+Preview URL: 
+************ Begin Track4*******************
+Song Title: 
+Artist(s): 
+Preview URL: 
+    The Sign
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+************* End Track4*******************
+
+
+    The Sign (US Album) [Remastered]
+************ Begin Track5*******************
+Artist(s): 
+    Juicy J
+    Wiz Khalifa
+    Ty Dolla $ign
+    Madsonik
+    Ace of Base
+    Kill The Noise
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track5*******************
+
+
+Album Name: 
+************ Begin Track6*******************
+Artist(s): 
+    Chance The Rapper
+    Ty Dolla $ign
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+    Anderson .Paak
+    Raury
+    Wiz Khalifa
+Song Title: 
+    Blessings
+Preview URL: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Album Name: 
+    Coloring Book
+************* End Track6*******************
+
+
+************ Begin Track7*******************
+Artist(s): 
+    PnB Rock
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Album Name: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Preview URL: 
+    BJ The Chicago Kid
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+
+
+************ Begin Track8*******************
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track8*******************
+
+
+************ Begin Track9*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track9*******************
+
+
+************ Begin Track10*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track10*******************
+
+
+************ Begin Track11*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+    Louis The Child
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track11*******************
+
+
+************ Begin Track12*******************
+Artist(s): 
+    Chris Brown
+    Tyga
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track12*******************
+
+
+    Ty Dolla $ign
+************ Begin Track13*******************
+    Saved - Live from The Village, Los Angeles
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Artist(s): 
+    Spotify Session
+************* End Track13*******************
+
+
+Album Name: 
+************ Begin Track14*******************
+Artist(s): 
+    Major Lazer
+    Moti
+    Ty Dolla $ign
+    WizKid
+    Kranium
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track14*******************
+
+
+************ Begin Track15*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+
+
+************ Begin Track16*******************
+Artist(s): 
+    Albert King
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track16*******************
+
+
+************ Begin Track17*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+
+
+************ Begin Track18*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+
+
+************ Begin Track19*******************
+Artist(s): 
+    Less Than Jake
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:05:06 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+********************************************
+Entering Liri.js
+Command = spotify-this-song
+********************************************
+
+Feb 14th 2017, 12:06:10 pm
+Fetching data for The Sign
+********************************************
+Entering Liri.js
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+Feb 14th 2017, 12:09:22 pm
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:12:13 pm
+********************************************
+
+Command = spotify-this-song
+Fetching data for The Sign
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:15:08 pm
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:22:10 pm
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:22:31 pm
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:23:29 pm
+Fetching data for The Sign
+********************************************
+
+Command = spotify-this-song
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:39:40 pm
+********************************************
+
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:40:17 pm
+Command = spotify-this-song
+Fetching data for The Sign
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:41:12 pm
+Command = spotify-this-song
+Fetching data for The Sign
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:42:00 pm
+********************************************
+
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+Entering Liri.js
+Feb 14th 2017, 12:45:03 pm
+Fetching data for The Sign
+********************************************
+
+Command = spotify-this-song
+********************************************
+Entering Liri.js
+Feb 14th 2017, 01:25:09 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
+[object Object]
+************ Begin Track0*******************
+    Ty Dolla $ign
+Artist(s): 
+    Wiz Khalifa
+    DJ Mustard
+Song Title: 
+    The Weeknd
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track0*******************
+
+
+Artist(s): 
+    Jeremih
+************ Begin Track1*******************
+    Ty Dolla $ign
+Song Title: 
+    Impatient
+Album Name: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+    Late Nights: The Album
+************* End Track1*******************
+
+
+************ Begin Track2*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    X Ambassadors
+    Logic
+    Ty Dolla $ign
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Album Name: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+************* End Track2*******************
+
+
+    Suicide Squad: The Album
+************ Begin Track3*******************
+    Mac Miller
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Album Name: 
+    The Divine Feminine
+************* End Track3*******************
+
+
+Artist(s): 
+    Ace of Base
+************ Begin Track4*******************
+Song Title: 
+    The Sign
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Preview URL: 
+Album Name: 
+    The Sign (US Album) [Remastered]
+Artist(s): 
+************* End Track4*******************
+
+
+************ Begin Track5*******************
+    Juicy J
+    Ty Dolla $ign
+    Wiz Khalifa
+    Madsonik
+    Kill The Noise
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+************* End Track5*******************
+
+
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************ Begin Track6*******************
+Artist(s): 
+    Chance The Rapper
+    Ty Dolla $ign
+    Anderson .Paak
+    BJ The Chicago Kid
+    Raury
+Song Title: 
+    Blessings
+Preview URL: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Album Name: 
+    Coloring Book
+************* End Track6*******************
+
+
+************ Begin Track7*******************
+Artist(s): 
+    PnB Rock
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    GTTM: Goin Thru the Motions
+************* End Track7*******************
+
+
+************ Begin Track8*******************
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track8*******************
+
+
+************ Begin Track9*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track9*******************
+
+
+************ Begin Track10*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track10*******************
+
+
+************ Begin Track11*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+    Louis The Child
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************ Begin Track12*******************
+************* End Track11*******************
+
+
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track12*******************
+
+
+************ Begin Track13*******************
+Artist(s): 
+    Chris Brown
+    Tyga
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track13*******************
+
+
+************ Begin Track14*******************
+Artist(s): 
+    Major Lazer
+    Moti
+    Ty Dolla $ign
+    WizKid
+    Kranium
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track14*******************
+
+
+************ Begin Track15*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track15*******************
+
+
+************ Begin Track16*******************
+Artist(s): 
+    Albert King
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track16*******************
+
+
+************ Begin Track17*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track17*******************
+
+
+************ Begin Track18*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track18*******************
+
+
+************ Begin Track19*******************
+Artist(s): 
+    Less Than Jake
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track19*******************
+
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 01:27:07 pm
+********************************************
+
+Command = spotify-this-song
+Fetching data for The Sign
+************ Begin Track 01*******************
+    DJ Mustard
+    Ty Dolla $ign
+    Wiz Khalifa
+Artist(s): 
+    The Weeknd
+Preview URL: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track 01*******************
+
+
+************ Begin Track 11*******************
+Artist(s): 
+Song Title: 
+    Ty Dolla $ign
+    Jeremih
+    Impatient
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+Album Name: 
+    Late Nights: The Album
+************* End Track 11*******************
+
+
+************ Begin Track 21*******************
+Artist(s): 
+Song Title: 
+    Lil Wayne
+    X Ambassadors
+    Imagine Dragons
+    Ty Dolla $ign
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+    Logic
+    Wiz Khalifa
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+Preview URL: 
+    Suicide Squad: The Album
+************* End Track 21*******************
+
+
+************ Begin Track 31*******************
+Album Name: 
+Artist(s): 
+    Mac Miller
+    Ty Dolla $ign
+Song Title: 
+Preview URL: 
+    Cinderella (feat. Ty Dolla $ign)
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+Album Name: 
+    The Divine Feminine
+************* End Track 31*******************
+
+
+************ Begin Track 41*******************
+Artist(s): 
+Song Title: 
+    Ace of Base
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+    The Sign (US Album) [Remastered]
+************* End Track 41*******************
+
+
+************ Begin Track 51*******************
+Artist(s): 
+    Juicy J
+    Wiz Khalifa
+    Ty Dolla $ign
+    Madsonik
+    Kill The Noise
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Song Title: 
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track 51*******************
+
+
+************ Begin Track 61*******************
+Artist(s): 
+    Chance The Rapper
+    Ty Dolla $ign
+    Anderson .Paak
+    BJ The Chicago Kid
+Song Title: 
+    Raury
+    Blessings
+Preview URL: 
+Album Name: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+    Coloring Book
+************* End Track 61*******************
+
+
+************ Begin Track 71*******************
+Artist(s): 
+    PnB Rock
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    GTTM: Goin Thru the Motions
+************* End Track 71*******************
+
+
+************ Begin Track 81*******************
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track 81*******************
+
+
+************ Begin Track 91*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track 91*******************
+
+
+************ Begin Track 101*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track 101*******************
+
+
+************ Begin Track 111*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+    Louis The Child
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track 111*******************
+
+
+************ Begin Track 121*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track 121*******************
+
+
+************ Begin Track 131*******************
+Artist(s): 
+    Chris Brown
+    Tyga
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track 131*******************
+
+
+************ Begin Track 141*******************
+Artist(s): 
+    Major Lazer
+    Moti
+    Ty Dolla $ign
+    WizKid
+    Kranium
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track 141*******************
+
+
+************ Begin Track 151*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track 151*******************
+
+
+************ Begin Track 161*******************
+Artist(s): 
+    Albert King
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track 161*******************
+
+
+************ Begin Track 171*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track 171*******************
+
+
+************ Begin Track 181*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track 181*******************
+
+
+************ Begin Track 191*******************
+Artist(s): 
+    Less Than Jake
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track 191*******************
+
+
+********************************************
+Feb 14th 2017, 01:27:49 pm
+Entering Liri.js
+Fetching data for The Sign
+Command = spotify-this-song
+********************************************
+
+************ Begin Track 1*******************
+    Ty Dolla $ign
+    DJ Mustard
+    Wiz Khalifa
+    The Weeknd
+Song Title: 
+Artist(s): 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/70f126c139847335bc03c756c55b80c99892268e?cid=null
+Album Name: 
+    Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+************* End Track 1*******************
+
+
+************ Begin Track 2*******************
+Artist(s): 
+    Jeremih
+    Ty Dolla $ign
+Song Title: 
+    Impatient
+Preview URL: 
+    https://p.scdn.co/mp3-preview/0de6a01bbbd0c9a2d9cd85febcc8ea099773932e?cid=null
+Album Name: 
+    Late Nights: The Album
+************* End Track 2*******************
+
+
+************ Begin Track 3*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    X Ambassadors
+    Logic
+    Ty Dolla $ign
+Song Title: 
+    Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/96f9689e58c4d6188cc269c0c2089036c3817a2e?cid=null
+    Suicide Squad: The Album
+************ Begin Track 4*******************
+Album Name: 
+************* End Track 3*******************
+
+
+Artist(s): 
+    Ty Dolla $ign
+    Mac Miller
+Song Title: 
+    Cinderella (feat. Ty Dolla $ign)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1f797d8ec6a6ca7dd84d9a6d496bc92748d24557?cid=null
+************* End Track 4*******************
+
+
+Album Name: 
+    The Divine Feminine
+************ Begin Track 5*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=null
+Album Name: 
+    The Sign (US Album) [Remastered]
+************* End Track 5*******************
+
+
+************ Begin Track 6*******************
+Artist(s): 
+    Juicy J
+    Wiz Khalifa
+    Madsonik
+    Ty Dolla $ign
+    Kill The Noise
+Song Title: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Preview URL: 
+    https://p.scdn.co/mp3-preview/26fa73b8c2e9ce91efb44fad48c5a38b2e48dc11?cid=null
+Album Name: 
+    Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+************* End Track 6*******************
+
+
+************ Begin Track 7*******************
+Artist(s): 
+    Chance The Rapper
+    Ty Dolla $ign
+    Anderson .Paak
+    Raury
+    Blessings
+    BJ The Chicago Kid
+Song Title: 
+Preview URL: 
+    https://p.scdn.co/mp3-preview/ca5047ad569d9860b850475f22cb482c8240e7a2?cid=null
+Album Name: 
+    Coloring Book
+************* End Track 7*******************
+
+
+************ Begin Track 8*******************
+Artist(s): 
+    PnB Rock
+    Ty Dolla $ign
+Song Title: 
+    Hanging Up My Jersey
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d9ded55ec6e478c9b68eb206e9f5714440c2c693?cid=null
+Album Name: 
+    GTTM: Goin Thru the Motions
+************* End Track 8*******************
+
+
+************ Begin Track 9*******************
+Artist(s): 
+    The Americanos
+    Nicky Jam
+    Lil Yachty
+    Ty Dolla $ign
+    French Montana
+Song Title: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/debdbfec32744181f24c2c57b567db36d987cc9f?cid=null
+Album Name: 
+    In My Foreign (feat. Ty Dolla $ign, Lil Yachty, Nicky Jam & French Montana)
+************* End Track 9*******************
+
+
+************ Begin Track 10*******************
+Artist(s): 
+    Ty Dolla $ign
+    Wiz Khalifa
+Song Title: 
+    Or Nah (feat. Wiz Khalifa) - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/4d7e630288b2ba0edd9678c2c186dcc7db3cfb73?cid=null
+Album Name: 
+    Spotify Session
+************* End Track 10*******************
+
+
+************ Begin Track 11*******************
+Artist(s): 
+    Coldplay
+Song Title: 
+    Warning Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/aa7d87a8e2ac9aa7261c7640548a18930572043d?cid=null
+Album Name: 
+    A Rush Of Blood To The Head
+************* End Track 11*******************
+
+
+************ Begin Track 12*******************
+Artist(s): 
+    Ty Dolla $ign
+    Future
+    Rae Sremmurd
+    Louis The Child
+Song Title: 
+    Blasé (feat. Future & Rae Sremmurd) - Louis The Child Remix
+Preview URL: 
+    https://p.scdn.co/mp3-preview/e5c3f24261752767005a5d10ae251f3a52e84319?cid=null
+Album Name: 
+    Blasé (feat. Future & Rae Sremmurd) [Remixes]
+************* End Track 12*******************
+
+
+************ Begin Track 13*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Saved - Live from The Village, Los Angeles
+Preview URL: 
+    https://p.scdn.co/mp3-preview/fd45b9a85d625d9a00375f7219a440991e6323e9?cid=null
+Album Name: 
+    Spotify Session
+************* End Track 13*******************
+
+
+************ Begin Track 14*******************
+Artist(s): 
+    Chris Brown
+    Tyga
+    Ty Dolla $ign
+Song Title: 
+    Nothin' Like Me
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c8e72c1a12ced753952455cb2145237a0d2a40cb?cid=null
+Album Name: 
+    Fan of A Fan The Album (Deluxe Version)
+************* End Track 14*******************
+
+
+Artist(s): 
+************ Begin Track 15*******************
+    Major Lazer
+    Moti
+    Ty Dolla $ign
+    WizKid
+    Kranium
+Song Title: 
+    Boom
+Preview URL: 
+    https://p.scdn.co/mp3-preview/c75296ad381abcd4ad558189e588dd698e3c0eb5?cid=null
+Album Name: 
+    Peace Is The Mission (Extended)
+************* End Track 15*******************
+
+
+************ Begin Track 16*******************
+Artist(s): 
+    Ace of Base
+Song Title: 
+    The Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/5ca0168d6b58e0f993b2b741af90ecc7c9b16893?cid=null
+Album Name: 
+    Greatest Hits
+************* End Track 16*******************
+
+
+************ Begin Track 17*******************
+Artist(s): 
+    Albert King
+Song Title: 
+    Born Under A Bad Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/d6811e181b5e572d8c3a7b87a50ecc1a32312124?cid=null
+Album Name: 
+    King Of The Blues Guitar
+************* End Track 17*******************
+
+
+************ Begin Track 18*******************
+Artist(s): 
+    Lil Wayne
+    Wiz Khalifa
+    Imagine Dragons
+    Logic
+    Ty Dolla $ign
+    X Ambassadors
+Song Title: 
+    Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
+Preview URL: 
+    https://p.scdn.co/mp3-preview/7e9499c10ce44e652219da0c626e65811b495b3c?cid=null
+Album Name: 
+    Suicide Squad: The Album
+************* End Track 18*******************
+
+
+************ Begin Track 19*******************
+Artist(s): 
+    Ty Dolla $ign
+Song Title: 
+    Horses In The Stable
+Preview URL: 
+    https://p.scdn.co/mp3-preview/1461c109906715ebbca4ee45fe4ca7599bc9ea4f?cid=null
+Album Name: 
+    Free TC
+************* End Track 19*******************
+
+
+************ Begin Track 20*******************
+Artist(s): 
+    Less Than Jake
+Song Title: 
+    Good Sign
+Preview URL: 
+    https://p.scdn.co/mp3-preview/f28f5ebb9068450afd49eaf3004e1ee998cc1256?cid=null
+Album Name: 
+    Sound the Alarm
+************* End Track 20*******************
+
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 01:28:46 pm
+Command = movie-this
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:04:22 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:15:18 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:25:57 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:26:48 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:27:19 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:27:56 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 02:31:18 pm
+Entering Liri.js
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 02:43:48 pm
+Entering Liri.js
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:45:51 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:51:05 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:51:29 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:52:23 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 02:52:41 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:02:02 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:41:01 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:41:47 pm
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:42:38 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:45:24 pm
+Fetching data for Mr. Nobody
+Command = movie-this
+In movie-this
+********************************************
+
+********************************************
+Feb 14th 2017, 03:46:28 pm
+Entering Liri.js
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:49:40 pm
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:50:08 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:50:36 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:51:37 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:52:12 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Command = movie-this
+Feb 14th 2017, 03:53:41 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 03:59:29 pm
+Command = movie-this
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 04:08:24 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 04:09:14 pm
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 04:11:05 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 04:16:43 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 08:00:48 pm
+Entering Liri.js
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:01:13 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Command = movie-this
+********************************************
+
+Feb 14th 2017, 08:01:58 pm
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:02:29 pm
+Command = movie-this
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:02:44 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:03:53 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:05:31 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:05:57 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:06:37 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:10:49 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:16:28 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:17:51 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:21:55 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:22:33 pm
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:28:05 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 08:32:20 pm
+Entering Liri.js
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:53:02 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:53:36 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:54:08 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 08:55:56 pm
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:15:49 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:18:09 pm
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+Command = movie-this
+********************************************
+Feb 14th 2017, 09:18:55 pm
+Entering Liri.js
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:19:53 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:21:32 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:44:22 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:46:24 pm
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:47:29 pm
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:47:45 pm
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+
+Command = movie-this
+********************************************
+Feb 14th 2017, 09:52:10 pm
+Entering Liri.js
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+In movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:53:07 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:55:19 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 09:57:31 pm
+Entering Liri.js
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 09:58:30 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:06:25 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 14th 2017, 10:07:21 pm
+Entering Liri.js
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:08:31 pm
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:23:35 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:24:04 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:24:36 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:29:06 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:34:38 pm
+In movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 14th 2017, 10:35:31 pm
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Feb 15th 2017, 12:12:45 am
+Entering Liri.js
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:13:20 am
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:17:33 am
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:19:24 am
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:22:56 am
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:24:43 am
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+
+********************************************
+Entering Liri.js
+Feb 15th 2017, 10:28:59 am
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Command = movie-this
+Feb 15th 2017, 10:31:56 am
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Command = movie-this
+********************************************
+
+Feb 15th 2017, 11:21:03 am
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:10:26 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+Entering Liri.js
+********************************************
+Feb 15th 2017, 12:11:47 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:13:24 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 12:46:49 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:30:54 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:31:27 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:31:59 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:44:02 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+Feb 15th 2017, 02:44:28 pm
+Entering Liri.js
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:46:12 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Feb 15th 2017, 02:50:34 pm
+Entering Liri.js
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:53:28 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:55:03 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:56:24 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 02:59:12 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:00:35 pm
+********************************************
+
+Command = movie-this
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:02:22 pm
+Command = movie-this
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:03:22 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:03:37 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Command = movie-this
+Feb 15th 2017, 03:08:09 pm
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Command = movie-this
+Feb 15th 2017, 03:13:05 pm
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:13:46 pm
+********************************************
+
+In movie-this
+Fetching data for Mr. Nobody
+Command = movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:14:34 pm
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+In movie-this
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:21:53 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:22:37 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:28:58 pm
+In movie-this
+********************************************
+
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:30:00 pm
+In movie-this
+Command = movie-this
+********************************************
+
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Feb 15th 2017, 03:35:35 pm
+********************************************
+
+In movie-this
+Command = movie-this
+Fetching data for Mr. Nobody
+********************************************
+Entering Liri.js
+Command = my-tweets
+Feb 15th 2017, 06:07:23 pm
+********************************************
+
+[object Object]
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:11:30 pm
+********************************************
+
+Command = my-tweets
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:12:08 pm
+Command = my-tweets
+********************************************
+
+6
+---------------- TWEET 1 --------------------
+What: Hello Twitter! #myfirstTweet
+What: Celery Man https://t.co/XS2EdLMfXX via @YouTube
+When: Feb 6th 2017, 03:00:53 pm
+
+When: Feb 6th 2017, 07:26:43 pm
+
+----------------- DONE ----------------------
+
+---------------- TWEET 3 --------------------
+When: Feb 7th 2017, 12:50:24 am
+
+What: This is my third tweet
+----------------- DONE ----------------------
+
+---------------- TWEET 2 --------------------
+----------------- DONE ----------------------
+
+---------------- TWEET 4 --------------------
+When: Feb 7th 2017, 12:50:43 am
+
+---------------- TWEET 5 --------------------
+What: This is my fourth tweet
+----------------- DONE ----------------------
+
+When: Feb 7th 2017, 12:51:13 am
+
+What: I hope that the past tense of tweet isn't twat!!
+----------------- DONE ----------------------
+
+---------------- TWEET 6 --------------------
+When: Feb 7th 2017, 12:52:05 am
+
+What: This is yet another tweet.  Should I tell people that I'm going to the bathroom soon?
+----------------- DONE ----------------------
+
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:14:02 pm
+********************************************
+
+Command = my-tweets
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:14:18 pm
+********************************************
+
+Command = my-tweets
+[object Object]
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:15:31 pm
+********************************************
+
+Command = my-tweets
+[object Object]
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:21:24 pm
+Command = my-tweets
+********************************************
+
+6
+What: Hello Twitter! #myfirstTweet
+---------------- TWEET 1 --------------------
+What: Celery Man https://t.co/XS2EdLMfXX via @YouTube
+----------------- DONE ----------------------
+
+When: Feb 7th 2017, 12:50:24 am
+
+---------------- TWEET 3 --------------------
+What: This is my third tweet
+---------------- TWEET 2 --------------------
+----------------- DONE ----------------------
+
+---------------- TWEET 4 --------------------
+When: Feb 7th 2017, 12:50:43 am
+
+What: This is my fourth tweet
+----------------- DONE ----------------------
+
+When: Feb 7th 2017, 12:51:13 am
+
+What: I hope that the past tense of tweet isn't twat!!
+----------------- DONE ----------------------
+
+---------------- TWEET 6 --------------------
+----------------- DONE ----------------------
+
+---------------- TWEET 5 --------------------
+When: Feb 6th 2017, 03:00:53 pm
+
+What: This is yet another tweet.  Should I tell people that I'm going to the bathroom soon?
+----------------- DONE ----------------------
+
+When: Feb 6th 2017, 07:26:43 pm
+
+When: Feb 7th 2017, 12:52:05 am
+
+********************************************
+Entering Liri.js
+Command = my-tweets
+Feb 15th 2017, 06:22:15 pm
+********************************************
+
+6
+---------------- TWEET 2 --------------------
+----------------- DONE ----------------------
+
+When: Feb 6th 2017, 03:00:53 pm
+
+When: Feb 6th 2017, 07:26:43 pm
+
+What: Hello Twitter! #myfirstTweet
+What: Celery Man https://t.co/XS2EdLMfXX via @YouTube
+----------------- DONE ----------------------
+
+When: Feb 7th 2017, 12:50:24 am
+
+What: This is my third tweet
+---------------- TWEET 1 --------------------
+----------------- DONE ----------------------
+
+---------------- TWEET 3 --------------------
+When: Feb 7th 2017, 12:50:43 am
+
+What: This is my fourth tweet
+----------------- DONE ----------------------
+
+---------------- TWEET 4 --------------------
+---------------- TWEET 5 --------------------
+What: I hope that the past tense of tweet isn't twat!!
+----------------- DONE ----------------------
+
+---------------- TWEET 6 --------------------
+What: This is yet another tweet.  Should I tell people that I'm going to the bathroom soon?
+When: Feb 7th 2017, 12:52:05 am
+
+----------------- DONE ----------------------
+
+When: Feb 7th 2017, 12:51:13 am
+
+********************************************
+Entering Liri.js
+Feb 15th 2017, 06:23:45 pm
+Command = my-tweets
+********************************************
+
+6
+---------------- TWEET 1 --------------------
+When: Feb 6th 2017, 03:00:53 pm
+---------------- TWEET 2 --------------------
+When: Feb 6th 2017, 07:26:43 pm
+----------------- TWEET 2DONE ------------------
+
+What: Celery Man https://t.co/XS2EdLMfXX via @YouTube
+What: Hello Twitter! #myfirstTweet
+---------------- TWEET 3 --------------------
+When: Feb 7th 2017, 12:50:24 am
+What: This is my third tweet
+----------------- TWEET 3DONE ------------------
+
+---------------- TWEET 4 --------------------
+----------------- TWEET 1DONE ------------------
+
+When: Feb 7th 2017, 12:50:43 am
+What: This is my fourth tweet
+----------------- TWEET 4DONE ------------------
+
+---------------- TWEET 5 --------------------
+When: Feb 7th 2017, 12:51:13 am
+What: I hope that the past tense of tweet isn't twat!!
+----------------- TWEET 5DONE ------------------
+
+---------------- TWEET 6 --------------------
+When: Feb 7th 2017, 12:52:05 am
+What: This is yet another tweet.  Should I tell people that I'm going to the bathroom soon?
+----------------- TWEET 6DONE ------------------
+
+********************************************
+Entering Liri.js
+Feb 15th 2017, 09:43:05 pm
+Command = spotify-this-song
+********************************************
+
+Fetching data for The Sign
