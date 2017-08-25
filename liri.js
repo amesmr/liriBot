@@ -53,7 +53,7 @@ function liri() {
         case "spotify-this-song":
             // do stuff
             if (process.argv.length != 4) {
-                // go get the default song and displays its info
+                // go get the default song and displays it
                 input = "The Sign";
             } else {
                 input = process.argv[3];
@@ -66,7 +66,7 @@ function liri() {
             // do stuff
             log("In movie-this");
             if (process.argv.length != 4) {
-                // go get the default song and displays its info
+                // go get the movie info and displays it
                 input = "Mr. Nobody";
             } else {
                 input = process.argv[3];
@@ -241,7 +241,7 @@ function movie(title) {
                         console.log("Metacritic Score (out of 10):");
                         console.log("  - " + data.rating);
                         console.log("Plot:");
-                        // Grrr.  I wanted to find a regEx that would help me 
+                        // Grrr.  I wanted to find a regEx that would help me
                         // chunk this into 20 or 25 word chunks so that I could
                         // output them pretty but I couldn't find the answer.
                         // Same as the old days.  Nothing is easy.
